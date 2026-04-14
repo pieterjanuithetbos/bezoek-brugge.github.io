@@ -13,10 +13,11 @@
 
 
 ## de twaalf klassiekers
-+ het begijnhof
-            De kloostertuin werd gesticht in 1245 en is vandaag gratis te bezoeken. Er wonen nog enkele Benedictijnse zusters, enkele zusters van de Orde Sint Vincentius A Paulo en enkele alleenstaande vrouwen. Werelderfgoed.
-+ de Brugse Reien
-        Ontlenen hun naam aan de [Reie](https://nl.wikipedia.org/wiki/Reie), die vroeger door de stad stroomde.
+### het begijnhof
+De kloostertuin werd gesticht in 1245 en is vandaag gratis te bezoeken. Er wonen nog enkele Benedictijnse zusters, enkele zusters van de Orde Sint Vincentius A Paulo en enkele alleenstaande vrouwen. Werelderfgoed.
+
+### de Brugse Reien
+Ontlenen hun naam aan de [Reie](https://nl.wikipedia.org/wiki/Reie), die vroeger door de stad stroomde.
 + Concertgebouw
 + Burg,
         maar vooral het majestueuze plein dat 'afgezoomd is met monumentale pronkgebouwen': de Basiliek van het Heilig Bloed, het Landhuis, het Brugse Vrije en de Proosdij. Een architectuursamenvatting op één plein.
