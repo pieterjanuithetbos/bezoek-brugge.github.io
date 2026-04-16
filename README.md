@@ -1,6 +1,6 @@
 # Wat te doen, zien en beleven in Brugge?
 
-<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=3.198995590209961%2C51.19497095792615%2C3.250494003295899%2C51.21857771133664&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?#map=15/51.20678/3.22474">View Larger Map</a></small>
+<iframe width="100%" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=3.198995590209961%2C51.19497095792615%2C3.250494003295899%2C51.21857771133664&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?#map=15/51.20678/3.22474">View Larger Map</a></small>
 
 ## Nieuws en evenementen 
 
@@ -88,11 +88,203 @@ Een overzicht van andere werken en waar ze te vinden:
 
 ![foto van Guido Gezelle](guido-gezelle.jpg)
 
-> Dit is dan weer een prachtige quote van Gezelle
+Het Guide [Gezellehuis](https://www.museabrugge.be/bezoek/locaties/gezellehuis) is elke tweede zondag van de maand open, met een gratis toegankelijke wc.
+Je kan ook een [Guido Gezellewandeling](https://gezelle.be/ontmoet-gezelle/guido-gezellewandeling-in-brugge) maken.
+
+> Wie heeft er ooit het lied gehoord,
+> het lied van Boerke Naas?
+> 't En ha', 't is waar, geen leeuwenhert,
+> maar toch, 't en was niet dwaas.
+>  
+>  
+> Boer Naas die was twee runders gaan
+> verkoopen naar de steê
+> en bracht, als hij naar huis toe kwam,
+> zes honderd franken meê.
+>  
+>  
+> Boer Naas, die maar een boer en was,
+> nochtans was scherp van zin,
+> hij ging en kocht een zevenschot,
+> en stak daar kogels in.
+>  
+>  
+> Alzoo kwam Naas, met stapkes licht,
+> en met de beurze zwaar;
+> hij zei: ‘Och 'k wilde dat ik thuis
+> en in mijn bedde waar!’
+>  
+>  
+> Al met nen keer, wat hoort boer Naas,
+> juist bacht hem in den tronk?
+> Daar roert entwat, daar loert entwat:
+> 't docht Naasken dat 't verzonk!
+>  
+>  
+> En, eer dat 't veintjen asem kreeg,
+> zoodanig was 't ontsteld,
+> daar grijpen Naas twee vuisten vast,
+> en 't ligt daar, neêrgeveld.
+>  
+>  
+> 't En hoorde noch 't en zag bijkan,
+> 't en voelde bijkans niet,
+> 't en zij dat 't een pistole zag,
+> en zeggen hoorde: ‘... Ik schiet!’
+	
+Over dit hoofdstuk/artikel
+datums
+
+    oktober 1868
+
+
+[pagina 608]
+[p. 608]
+	
+ 
+‘Ik schiet, zoo gij, op staanden voet,
+ 
+niet al uw geld en geeft;
+ 
+en g'hebt, van zoo gij roert, me man,
+ 
+uw laatsten dag geleefd!’
+ 
+ 
+ 
+Boer Naas, die alle dagen vijf
+ 
+zes kruisgebeden bad,
+ 
+om lang te mogen leven, peist
+ 
+hoe hij in nesten zat!
+ 
+ 
+ 
+‘Wat zal ze zeggen,’ kreesch boer Naas,
+ 
+‘wanneer ik t'huiswaard keer?
+ 
+Hij heeft het weêrom al verbuisd!
+ 
+die zatlap, nog nen keer!’
+ 
+ 
+ 
+‘Hoort hier, mijn vriend, believe 't u,
+ 
+toogt dat gij minzaam zijt,
+ 
+och, schiet ne kogel deur mijn hoed
+ 
+en spaart mij 't vrouwverwijt!
+ 
+ 
+ 
+'k Zal zeggen, als ik thuis geraak:
+ 
+men heeft mijn geld geroofd,
+ 
+en, letter schilde 't, of ik had
+ 
+nen kogel deur mijn hoofd!’
+ 
+ 
+ 
+De dief, die meer van kluiten hield
+ 
+als van boer Naas zijn bloed,
+ 
+schoot rap ne kogel deur end deur
+ 
+de kobbe van z'nen hoed.
+ 
+ 
+ 
+‘Bedankt!’ zei Naas, en greep zijn slep:
+ 
+‘schiet nog een deur mijn kleed!’
+ 
+De dief legt aan en Naasken houdt
+ 
+zijn pitelerken g'reed.
+	
+[pagina 609]
+[p. 609]
+	
+ 
+‘Schiet nog een deur mijn broek,’ zei Naas,
+ 
+‘toen peist me wijf, voorwaar,
+ 
+als dat ik, bij mirakel, ben
+ 
+ontsnapt aan 't lijfsgevaar.’
+ 
+ 
+ 
+De roover zegt: ‘Nu zal 't wel gaan,
+ 
+waar is uw beurze, snel:
+ 
+'k en heb noch tijd noch kogels meer...’
+ 
+‘Ik wel,’ zegt Naas, ‘ik wel!’
+ 
+ 
+ 
+Zijn zevenschot haalt Naas toen uit
+ 
+en spreekt: Is 't dat ge u niet,
+ 
+in een- twee- drie, van hier en pakt,
+ 
+gij galgendweil, ik schiet!
+ 
+ 
+ 
+‘Ik schiet, van als gij nader komt,
+ 
+uw dommen kop in gruis,
+ 
+en, zoo gij Naas nog rooven wilt,
+ 
+laat uw verstand niet thuis!’
+ 
+ 
+ 
+En loopen dat die roover dei,
+ 
+de beenen van zijn lijf,
+ 
+zoo snel dat 't onbeschrijflijk is,
+ 
+hoe snel ook dat ik schrijf!
+ 
+ 
+ 
+Hier stoppe ik. Dichte een ander nu
+ 
+ne voois op boerke Naas;
+ 
+'t is waar, 't en was geen leeuwenhert,
+ 
+maar toch, 't en was niet dwaas!
+ 
 
 
 ## Eten
 
-## Varia
-
-- Het Engels klooster biedt een gratis toilet.
+- [Amuni](https://www.amuni.be/)
+    - pizza voor 20 euro
+- [Bocca](http://bocca.be/menus/restaurant.html)
+    - serveert spaghetti's voor een 15-tal euro
+    - heeft restaurants in Gent, Brugge en Kortrijk
+- pizzeria De Stoepa
+    - 15-25 euro, volgens de [menukaart](stoepamenu-2024.pdf) van twee jaar geleden.
+    - groot tuinterras
+- de Médard
+    - voor een 'grote spaghetti', een 'bruin café'
+- Grand Café De Republiek
+    - een maaltijd voo rond de 22 euro
