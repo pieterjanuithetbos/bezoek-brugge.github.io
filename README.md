@@ -1,5 +1,7 @@
 # Wat te doen, zien en beleven in Brugge?
 
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=3.198995590209961%2C51.19497095792615%2C3.250494003295899%2C51.21857771133664&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?#map=15/51.20678/3.22474">View Larger Map</a></small>
+
 ## Nieuws en evenementen 
 
 - [Gitaarconcert Alexander Makay](https://www.brugge.be/activiteiten/alexander-makay-recuerdos-de-espana)

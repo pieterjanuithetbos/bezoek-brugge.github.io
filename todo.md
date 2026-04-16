@@ -1,0 +1,3 @@
+- integreer maps met gemarkeerde locaties in md
+- zoek eten
+- zoek wat over Guido Gezelle
